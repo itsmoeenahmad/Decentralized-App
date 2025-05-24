@@ -86,20 +86,6 @@ This project is a simple Flutter DApp (Decentralized Application) that interacts
 
 ---
 
-## Folder Structure
-
-assets/
-└── abi.json # Contract ABI file
-lib/
-├── Screens/
-│ └── homeScreen.dart # UI and state management
-├── Services/
-│ └── web3Service.dart # Web3 client and contract interaction
-└── main.dart # App entry point
-
-
----
-
 ## How it Works
 
 1. **Initialization**: The app initializes the Web3 client and loads the smart contract ABI and address.
